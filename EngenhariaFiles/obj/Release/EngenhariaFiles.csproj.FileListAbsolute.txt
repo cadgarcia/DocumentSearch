@@ -1,0 +1,9 @@
+C:\Users\Administrador\Source\repos\EngenhariaFiles\EngenhariaFiles\bin\Release\EngenhariaFiles.exe.config
+C:\Users\Administrador\Source\repos\EngenhariaFiles\EngenhariaFiles\bin\Release\EngenhariaFiles.exe
+C:\Users\Administrador\Source\repos\EngenhariaFiles\EngenhariaFiles\bin\Release\EngenhariaFiles.pdb
+C:\Users\Administrador\Source\repos\EngenhariaFiles\EngenhariaFiles\obj\Release\EngenhariaFiles.Form1.resources
+C:\Users\Administrador\Source\repos\EngenhariaFiles\EngenhariaFiles\obj\Release\EngenhariaFiles.Properties.Resources.resources
+C:\Users\Administrador\Source\repos\EngenhariaFiles\EngenhariaFiles\obj\Release\EngenhariaFiles.csproj.GenerateResource.cache
+C:\Users\Administrador\Source\repos\EngenhariaFiles\EngenhariaFiles\obj\Release\EngenhariaFiles.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Source\repos\EngenhariaFiles\EngenhariaFiles\obj\Release\EngenhariaFiles.exe
+C:\Users\Administrador\Source\repos\EngenhariaFiles\EngenhariaFiles\obj\Release\EngenhariaFiles.pdb

@@ -1,0 +1,10 @@
+C:\Users\Administrador\Source\repos\EngenhariaFiles\EngenhariaFiles\obj\Debug\EngenhariaFiles.csprojAssemblyReference.cache
+C:\Users\Administrador\Source\repos\EngenhariaFiles\EngenhariaFiles\obj\Debug\EngenhariaFiles.Form1.resources
+C:\Users\Administrador\Source\repos\EngenhariaFiles\EngenhariaFiles\obj\Debug\EngenhariaFiles.csproj.GenerateResource.cache
+C:\Users\Administrador\Source\repos\EngenhariaFiles\EngenhariaFiles\obj\Debug\EngenhariaFiles.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Source\repos\EngenhariaFiles\EngenhariaFiles\bin\Debug\DocumentSearch.exe.config
+C:\Users\Administrador\Source\repos\EngenhariaFiles\EngenhariaFiles\bin\Debug\DocumentSearch.exe
+C:\Users\Administrador\Source\repos\EngenhariaFiles\EngenhariaFiles\bin\Debug\DocumentSearch.pdb
+C:\Users\Administrador\Source\repos\EngenhariaFiles\EngenhariaFiles\obj\Debug\DocumentSearch.Properties.Resources.resources
+C:\Users\Administrador\Source\repos\EngenhariaFiles\EngenhariaFiles\obj\Debug\DocumentSearch.exe
+C:\Users\Administrador\Source\repos\EngenhariaFiles\EngenhariaFiles\obj\Debug\DocumentSearch.pdb
